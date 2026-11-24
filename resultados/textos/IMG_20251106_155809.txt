@@ -1,0 +1,94 @@
+utp 29 = tote Blogenpry
+N20 - Athlete Blography
+Tndoluding personal Information ‘and eport disaphne
+Detailed info
+bon about en athlete,
+information
+[Source ONS and ©
+‘echnotogy
+‘kyo 2020 resutts data
+Sort by
+For “Profile”
+For “Events and Medeis*: 4
+Chronological
+james": 1 + Chronological
+For “Schedule end Resulte it Current Games
+mes, Youth Otympic Games (# the
+For “Historical Results’: 1 Competition
+type (Ofympie Ga
+the OG/YOG edition
+athlete has participated m both Summer end
+Winter OG and/or YOO,
+{TU World Fitathion Series,
+(SummerAVinter) ma!
+the current Games le al
+ways Reted first),
+2+ Rank (descending) 3-
+NTU Triathlon World
+ree Bast Performances in Current Sesson
+Year (descending) 4 Event (ITU presentation
+For “General
+samp
+defined text: None.
+Note with p
+Free text See Append
+ix G - Rules for Data Formats and Presentaton
+[Use the following description for abore
+mations which appear in the output
+medal icon> - Gold medal
+-<nadal tcon> - Sivver medal
+woe
+samedal icon>
+Bronze medal
+ONF - Dd Not Finish
+ore
+——--
+IDNS - Did Not Start 5
+DQ - Disqualified for vnspotsanite behaviour
+josa- Oisquatified
+Tobe displayed at the bottom of the page,
+[IRndes None
+For the
+fakd “Social media’ ‘Only dedared public page(s) should be Irsted here.
+—-
+“Tha feld tite should not be displayed if there is no data available for that field.
+a
+For Historical Results” show only the levels of competitions relevant for that athlete.
+Data tem
+Comments.
+[ M_ [Text
+.,
+NOT APPUCABLE
+a (5
+discipline (H2)
+NOT APPLICABLE
+[3 EventiGender
+>
+[Paase & event unt (Re)______[ = {NOT APPUCABLE
+Ce
+ST Vee name 5.) H5.1
+Venoe- date sne snd ne 8) |= or aptcasie_—————]
+ee NOT APPLICABLE
+| =__ [NOT APPLICABLE
+ea sa po INT ALCL
+Date - in the format defined in the OC Look
+2.
+ec
+ss. Feat standard
+8 ir
+a iy
+(7.3 NOC flag
+[Grephucs
+CN aang IOC NOC none
+[NOC name YM [Stanciard JOC NOE name Standard 1OC NOS name.
+|
+ee Ee
+rere grea
+Lg pg a rc Coun
+[78 —_|Genger Tre
+roy or “Male”
+*
+FOOT ORIS, TaeNon nnn StO F = ORD NOT
+Page Jot 4
+Release 7 Version 0 - 23 Ape 2018
+Page 185 of 322

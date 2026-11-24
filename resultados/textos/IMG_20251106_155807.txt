@@ -1,0 +1,90 @@
+fe]
+5
+: N20 - Athlete Blograph:
+N20 + Athlete Biography :
+Detaled informebon abouk en alhieta, Indudmg personal information and sport discipline
+information
+Sort by
+For *Profile*,
+eo
+For “Events and Medals®: 4 - Chronologically
+-
+For “Schedule and Results in Current Gamas®: 1 « Chron:
+logically
+For "Historical Reauits®. ( + Competition
+type (Olymplo Games,
+oY ss Olympic Games (tthe .
+or
+and Winter 0G and/or YOG, the OG/YOG edition
+athlete has participated in both Summ:
+current
+t Games |e abvaya listed fret), ITU World Trathion Sertes,
+(SummerMWinter) matching the
+Beat Performances in Current Season 2+ Rank (descanding) 3-
+ITU Trathion Word Cup, Three
+Year (deacending) 4+ Event (ITU
+For General interes!
+samp)
+presentation order)
+[Page break
+Note with predefined text. None
+Free text See Appendix C - Rules for Data Formats and Presentation
+<madal icon> « Gold medal
+Use the following description for abbreviations which appear in the output
+—
+<mexdtal icon> - Silver medal
+wee
+<mmedal icon>
+Bronze medal
+IONE
+Did Not Finish
+wees
+-
+——
+IDNS + Did Not Start
+~-
+DQB - Disqualified for
++ unsportsmanlike behaviour
+To be displayed at the bottom of the page. . :
+None
+Comments
+For the fieid "Social media": ‘Only declared public page(s) should be listed here.
+the Beld tte should not be displayed if there is no data available for that fiekd.
+For “Historical Results" show onty the levels of competitions relevant for nat athlete.
+Gata jim
+[ohe)
+Comments
+fh ____ [Output tite
+MM [Text
+NOT APPLICABLE
+[2 Tsp
+discipline (H2)
+[se ventiGender
+[= NOT APPLICABLE
+[ = [NOTAPPUCABLE
+[5___——=C*=*iVaniure - Gate -starttime-endtime (Hs) T=
+[Si ]Venename(H5.1) dC NOT APPLICABLE
+|= _JNOT APPLICABLE
+JEvent stattme(HS3) | = [NOTAPPLICABLE
+[54 JEvent end ime (H5.4) "NOT APPLIGABLE
+fo
+[eareamaea ene oO |
+=
+Data «in the format dained in the OG Look
+[77 |Picrwe fatiele Pg
+Fg a 8 NOT]
+[M_|standara (OC NOC name |
+Date of buth
+[™ |
+[77 Place of berth
+7.7.2
+State (republic, region, ...) name or code
+[773 Country
+=
+[Gender Ta Text - “Fomata™ of “Male™
+wC-
+ITU - ORIS: Tener
+‘Secton 1 - Output N20
+Release 7 Version 0 - 23 Apr 2018
+Page 304
+Page 188 of 322.
